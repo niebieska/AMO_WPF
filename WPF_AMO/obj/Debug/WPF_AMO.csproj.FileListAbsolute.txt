@@ -1,0 +1,14 @@
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO.csprojAssemblyReference.cache
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\MainWindow.g.cs
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\App.g.cs
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO_MarkupCompile.cache
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO_MarkupCompile.lref
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\bin\Debug\WPF_AMO.exe.config
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\bin\Debug\WPF_AMO.exe
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\bin\Debug\WPF_AMO.pdb
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\MainWindow.baml
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO.g.resources
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO.Properties.Resources.resources
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO.csproj.GenerateResource.cache
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO.exe
+C:\Users\Paulinka\source\repos\WPF_AMO\WPF_AMO\obj\Debug\WPF_AMO.pdb
